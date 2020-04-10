@@ -1,0 +1,20 @@
+*.unityproj
+*.suo
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.csproj
+*.sln
+.vs/
+.vscode/
+*/Library/
+*/Temp/
+*/Builds/
+*/Assets/FMODStudioCache.asset
+*/Assets/StreamingAssets/*.bank
+*/fmod.log
+*/fmod_editor.log
+Unity/Decromancer 2/Library/
+Unity/Decromancer 2/Temp/
+Unity/Decromancer 2/obj/
