@@ -4,6 +4,7 @@
     {
 		Zwrite Off
 		ColorMask 0
+		Cull Off
 
 		Stencil {
 			Ref 1
